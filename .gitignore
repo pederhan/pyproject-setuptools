@@ -1,0 +1,10 @@
+# Artifacts from setuptools
+*.egg-info/
+build/
+
+# Virtual Environment
+venv/
+
+# Python Bytecode
+*.pyc
+*__pycache__*
