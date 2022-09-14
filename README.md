@@ -1,1 +1,1 @@
-# lol
+# Python Project with Setuptools
